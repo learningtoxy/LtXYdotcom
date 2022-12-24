@@ -1,0 +1,26 @@
+{
+  "name": "ltxydotcom",
+  "version": "1.0.0",
+  "description": "Learning to XY Server Site",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learningtoxy/LtXYdotcom.git"
+  },
+  "author": "Ian McAllister",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learningtoxy/LtXYdotcom/issues"
+  },
+  "homepage": "https://github.com/learningtoxy/LtXYdotcom#readme",
+  "devDependencies": {
+    "body-parser": "^1.20.1",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
